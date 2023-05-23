@@ -1,0 +1,16 @@
+E:\visual studio projects\Final Form\Minesweeper\bin\Release\Minesweeper.exe.config
+E:\visual studio projects\Final Form\Minesweeper\bin\Release\Minesweeper.exe
+E:\visual studio projects\Final Form\Minesweeper\bin\Release\Minesweeper.pdb
+E:\visual studio projects\Final Form\Minesweeper\obj\Release\Minesweeper.csproj.AssemblyReference.cache
+E:\visual studio projects\Final Form\Minesweeper\obj\Release\Minesweeper.CreateField.resources
+E:\visual studio projects\Final Form\Minesweeper\obj\Release\Minesweeper.MainWindow.resources
+E:\visual studio projects\Final Form\Minesweeper\obj\Release\Minesweeper.Minefield.resources
+E:\visual studio projects\Final Form\Minesweeper\obj\Release\Minesweeper.Properties.Resources.resources
+E:\visual studio projects\Final Form\Minesweeper\obj\Release\Minesweeper.csproj.GenerateResource.cache
+E:\visual studio projects\Final Form\Minesweeper\obj\Release\Minesweeper.csproj.CoreCompileInputs.cache
+E:\visual studio projects\Final Form\Minesweeper\obj\Release\Minesweeper.exe
+E:\visual studio projects\Final Form\Minesweeper\obj\Release\Minesweeper.pdb
+C:\Users\Stefan\Desktop\Final Form\Minesweeper\obj\Release\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\Final Form\Minesweeper\obj\Release\Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stefan\Desktop\Final Form\Minesweeper\obj\Release\Minesweeper.exe
+C:\Users\Stefan\Desktop\Final Form\Minesweeper\obj\Release\Minesweeper.pdb

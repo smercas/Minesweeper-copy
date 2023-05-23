@@ -1,0 +1,24 @@
+E:\visual studio projects\Minesweeper-master\Minesweeper\bin\Debug\Minesweeper.exe.config
+E:\visual studio projects\Minesweeper-master\Minesweeper\bin\Debug\Minesweeper.exe
+E:\visual studio projects\Minesweeper-master\Minesweeper\bin\Debug\Minesweeper.pdb
+E:\visual studio projects\Minesweeper-master\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+E:\visual studio projects\Minesweeper-master\Minesweeper\obj\Debug\Minesweeper.CreateField.resources
+E:\visual studio projects\Minesweeper-master\Minesweeper\obj\Debug\Minesweeper.MainWindow.resources
+E:\visual studio projects\Minesweeper-master\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+E:\visual studio projects\Minesweeper-master\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+E:\visual studio projects\Minesweeper-master\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+E:\visual studio projects\Minesweeper-master\Minesweeper\obj\Debug\Minesweeper.exe
+E:\visual studio projects\Minesweeper-master\Minesweeper\obj\Debug\Minesweeper.pdb
+E:\visual studio projects\Minesweeper-master\Minesweeper\obj\Debug\Minesweeper.Minefield.resources
+E:\visual studio projects\Final Form\Minesweeper\bin\Debug\Minesweeper.exe.config
+E:\visual studio projects\Final Form\Minesweeper\bin\Debug\Minesweeper.exe
+E:\visual studio projects\Final Form\Minesweeper\bin\Debug\Minesweeper.pdb
+E:\visual studio projects\Final Form\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+E:\visual studio projects\Final Form\Minesweeper\obj\Debug\Minesweeper.CreateField.resources
+E:\visual studio projects\Final Form\Minesweeper\obj\Debug\Minesweeper.MainWindow.resources
+E:\visual studio projects\Final Form\Minesweeper\obj\Debug\Minesweeper.Minefield.resources
+E:\visual studio projects\Final Form\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+E:\visual studio projects\Final Form\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+E:\visual studio projects\Final Form\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+E:\visual studio projects\Final Form\Minesweeper\obj\Debug\Minesweeper.exe
+E:\visual studio projects\Final Form\Minesweeper\obj\Debug\Minesweeper.pdb
